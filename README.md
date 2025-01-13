@@ -1,0 +1,1 @@
+This JavaScript code handles the opening and closing of a modal window. It adds event listeners to buttons (btnshowmodals) that open the modal and an overlay when clicked, and a close button (closemodal) to hide them. The modal can also be closed by clicking on the overlay or pressing the "Escape" key. The modal is shown or hidden by toggling the hidden class.
